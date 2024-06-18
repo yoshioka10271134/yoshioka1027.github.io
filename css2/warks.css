@@ -5,6 +5,7 @@ body {
   -webkit-animation: noise 8s steps(10) infinite;
           animation: noise 8s steps(10) infinite;
   font-family: sans-serif;
+  background-size:100%;
 }
 @-webkit-keyframes noise {
   to {
