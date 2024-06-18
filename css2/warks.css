@@ -1471,6 +1471,7 @@ body::-webkit-scrollbar {
       -ms-flex-align: center;
           align-items: center;
   background-image: url(https://raw.githubusercontent.com/yoshioka10271134/yoshioka1027.github.io/69e9c7bd4116ca78affdefb0d200dce871e66314/warks06/main.svg);
+  background-size:100%;
 }
 #wrapper.sain header section div {
   width: 1200px;
@@ -1564,11 +1565,13 @@ body::-webkit-scrollbar {
   width: 200px;
   height: 200px;
   background-image: url(https://raw.githubusercontent.com/yoshioka10271134/yoshioka1027.github.io/69e9c7bd4116ca78affdefb0d200dce871e66314/warks06/main2.svg);
+  background-size:100%;
 }
 #wrapper.sain article.lower {
   width: 100%;
   margin-top: 100px;
   background-image: url(https://raw.githubusercontent.com/yoshioka10271134/yoshioka1027.github.io/69e9c7bd4116ca78affdefb0d200dce871e66314/warks06/main2.svg);
+  background-size:100%;
   padding-top: 10px;
   padding-bottom: 100px;
 }
@@ -1755,6 +1758,7 @@ body::-webkit-scrollbar {
       -ms-flex-align: center;
           align-items: center;
   background-image: url(https://raw.githubusercontent.com/yoshioka10271134/yoshioka1027.github.io/69e9c7bd4116ca78affdefb0d200dce871e66314/warks06/main.svg);
+  background-size:100%;
 }
 #wrapper.bord header section div {
   width: 1200px;
@@ -1844,11 +1848,13 @@ body::-webkit-scrollbar {
   width: 200px;
   height: 200px;
   background-image: url(https://raw.githubusercontent.com/yoshioka10271134/yoshioka1027.github.io/69e9c7bd4116ca78affdefb0d200dce871e66314/warks06/main2.svg);
+  background-size:100%;
 }
 #wrapper.bord article.lower {
   width: 100%;
   margin-top: 100px;
   background-image: url(https://raw.githubusercontent.com/yoshioka10271134/yoshioka1027.github.io/69e9c7bd4116ca78affdefb0d200dce871e66314/warks06/main2.svg);
+  background-size:100%;
   padding-top: 10px;
   padding-bottom: 100px;
 }
@@ -2022,6 +2028,7 @@ body::-webkit-scrollbar {
       -ms-flex-align: center;
           align-items: center;
   background-image: url(https://raw.githubusercontent.com/yoshioka10271134/yoshioka1027.github.io/69e9c7bd4116ca78affdefb0d200dce871e66314/warks06/main.svg);
+  background-size:100%;
 }
 #wrapper.hachi header section div {
   width: 1200px;
@@ -2113,11 +2120,13 @@ body::-webkit-scrollbar {
   width: 200px;
   height: 200px;
   background-image: url(https://raw.githubusercontent.com/yoshioka10271134/yoshioka1027.github.io/69e9c7bd4116ca78affdefb0d200dce871e66314/warks06/main2.svg);
+  background-size:100%;
 }
 #wrapper.hachi article.lower {
   width: 100%;
   margin-top: 100px;
   background-image: url(https://raw.githubusercontent.com/yoshioka10271134/yoshioka1027.github.io/69e9c7bd4116ca78affdefb0d200dce871e66314/warks06/main2.svg);
+  background-size:100%;
   padding-top: 10px;
   padding-bottom: 100px;
 }
@@ -2294,6 +2303,7 @@ body::-webkit-scrollbar {
       -ms-flex-align: center;
           align-items: center;
   background-image: url(https://raw.githubusercontent.com/yoshioka10271134/yoshioka1027.github.io/69e9c7bd4116ca78affdefb0d200dce871e66314/warks06/main.svg);
+  background-size:100%;
 }
 #wrapper.fra header section div {
   width: 1200px;
@@ -2381,11 +2391,13 @@ body::-webkit-scrollbar {
   width: 200px;
   height: 200px;
   background-image: url(https://raw.githubusercontent.com/yoshioka10271134/yoshioka1027.github.io/69e9c7bd4116ca78affdefb0d200dce871e66314/warks06/main2.svg);
+  background-size:100%;
 }
 #wrapper.fra article.lower {
   width: 100%;
   margin-top: 100px;
   background-image: url(https://raw.githubusercontent.com/yoshioka10271134/yoshioka1027.github.io/69e9c7bd4116ca78affdefb0d200dce871e66314/warks06/main2.svg);
+  background-size:100%;
   padding-top: 10px;
   padding-bottom: 100px;
 }
