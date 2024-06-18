@@ -160,7 +160,7 @@ body::-webkit-scrollbar {
 .top_page header #header_back {
   width: 100vw;
   height: 100vh;
-  background-image: url(https://yoshioka10271134.github.io/yoshioka1027.github.io/portfolio/img2/top/back4.svg);
+  background-image: url(https://raw.githubusercontent.com/yoshioka10271134/yoshioka1027.github.io/569a989548c3d1f30049d8f8b0d907721c71e546/top/back4.svg);
   background-size: 100%;
   background-attachment: fixed;
   position: relative;
