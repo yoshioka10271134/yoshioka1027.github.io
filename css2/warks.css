@@ -1,6 +1,6 @@
 body {
   overflow-x: hidden;
-  background-image: url(../img2/top/back_body.svg);
+  background-image: url(https://raw.githubusercontent.com/yoshioka10271134/yoshioka1027.github.io/37b3afa805e8aa2fe0d537d754bb5b1276e9328b/top/back_body.svg);
   background-size: 50%;
   -webkit-animation: noise 8s steps(10) infinite;
           animation: noise 8s steps(10) infinite;
